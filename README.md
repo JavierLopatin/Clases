@@ -1,2 +1,2 @@
 # Clases
-Theoretical and practical classes
+Theoretical and practical classes in Universidad Adolfo Ibáñez
